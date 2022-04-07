@@ -1,5 +1,5 @@
 # Plot_protein
- AlphaFold2で得たPDBファイルをColabFoldで出てくる3D structure viewに変換します。  
+ AlphaFold2で得たPDBファイル(pLDDT付き)を、ColabFoldの3D structure viewに変換します。  
  multimer対応  
  ![a](https://user-images.githubusercontent.com/44022497/162230215-625a9091-7bd0-4484-b77e-b20ecc3b0876.png)  
    
