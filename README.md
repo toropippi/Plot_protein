@@ -9,3 +9,4 @@
 ## How To Use
  pdbファイルがある階層でPlot_protein.pyを実行すると、"ファイル名.PNG"が出力されます。  
  You run Plot_protein.py in the hierarchy where the pdb file is located, it will output the "filename.PNG".  
+ サブフォルダも含めて実行するにはPlot_protein.pyの最後の行のコメントアウトを外してください。  
